@@ -1,0 +1,14 @@
+# Python
+*.pyc
+output/
+
+# Pelican
+pelican.pid
+srv.pid
+
+# OS X
+.DS_Store
+
+# Emacs
+\#*\#
+.\#*
